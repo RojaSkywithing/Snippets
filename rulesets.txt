@@ -1,24 +1,41 @@
-🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
-🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
+📡 IPTV,https://raw.githubusercontent.com/RojaSkywithing/Surge/main/IPTV.list
+🚴🏻‍♂️ Eurosport,https://raw.githubusercontent.com/RojaSkywithing/Surge/main/EUROSPORT.list
+💫 American streaming,https://raw.githubusercontent.com/RojaSkywithing/Surge/main/ABC.list
+💫 American streaming,https://raw.githubusercontent.com/RojaSkywithing/Surge/main/CBS.list
+💫 American streaming,https://raw.githubusercontent.com/RojaSkywithing/Surge/main/FOX.list
+💫 American streaming,https://raw.githubusercontent.com/HotKids/Rules/master/Surge/RULE-SET/Hulu.list
+💫 American streaming,https://raw.githubusercontent.com/RojaSkywithing/Surge/main/Fubo.list
+🇮🇳 印度,https://raw.githubusercontent.com/RojaSkywithing/Surge/main/NBA.list
+📻Clubhouse,https://raw.githubusercontent.com/RojaSkywithing/Surge/main/Clubhouse.list
+⚽️ okko,https://raw.githubusercontent.com/RojaSkywithing/Surge/main/okko.list
+🇺🇲 美国,https://raw.githubusercontent.com/RojaSkywithing/Surge/main/Pornhub.list
+🇺🇲 美国,https://raw.githubusercontent.com/RojaSkywithing/Surge/main/TIDAL.list
+🇺🇲 美国,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Instagram/Instagram.list
+🇺🇲 美国,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TikTok/TikTok.list
+✈️ Speedtest,https://raw.githubusercontent.com/RojaSkywithing/Surge/main/speedtest.list
+💳 贝宝支付,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PayPal/PayPal.list
 🛑 广告拦截,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list
 🍃 应用净化,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanProgramAD.list
-🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/GoogleCN.list
 Ⓜ️ 微软服务,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/OneDrive.list
-🍎 苹果服务,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Apple.list
+🍎 苹果服务,https://raw.githubusercontent.com/HotKids/Rules/master/Surge/RULE-SET/Apple/Apple%20Books.list
+🍎 苹果服务,https://raw.githubusercontent.com/HotKids/Rules/master/Surge/RULE-SET/Apple/Apple%20News.list
+🍎 苹果服务,https://raw.githubusercontent.com/HotKids/Rules/master/Surge/RULE-SET/Apple/Apple%20TV.list
+🍎 苹果服务,https://cdn.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Apple.list
+🔗 谷歌Play,https://raw.githubusercontent.com/HotKids/Rules/master/Surge/RULE-SET/Google%20Play.list
+🤖️ 谷歌云盘,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GoogleDrive/GoogleDrive.list
+🌲 Apkpure,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Apkpure/Apkpure.list
 🌟 Star++,https://raw.githubusercontent.com/cx99325/clash/main/Star%2B%2B.list
 ⭐️ Star+,https://raw.githubusercontent.com/cx99325/clash/main/star%2B.list
+📼 DAZN,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DAZN/DAZN.list
 📲 电报信息,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Telegram.list
 🎥 NETFLIX,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Netflix.list
-🏆 DAZN,https://raw.githubusercontent.com/cx99325/clash/main/DAZN.list
-🥅 ESPN,https://raw.githubusercontent.com/cx99325/clash/main/ESPN.list
-✨ HBO_Go,https://raw.githubusercontent.com/cx99325/Rules/master/Clash/RuleSet/HBO_Go.yaml
 📺 YouTube,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/YouTube.list
 🎀 Disney+,https://raw.githubusercontent.com/HotKids/Rules/master/Quantumult/X/Filter/Disney%2B.list
-💫 Paramount+,https://raw.githubusercontent.com/cx99325/clash/main/Paramount%2B.list
-✔️ Prime Video,https://raw.githubusercontent.com/cx99325/clash/main/Prime%20Video.list
-🚴 Eurosports,https://raw.githubusercontent.com/cx99325/clash/main/Eurosports.list
+🅿️ Prime Video,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/AmazonPrimeVideo/AmazonPrimeVideo.list
+🤠 HBO Max,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/HBO/HBO.list
+📺 BBC,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BBC/BBC.list
 🎵 声田音乐,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Spotify.list
-💳 贝宝支付,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/PayPal.list
+🎵 网易云音乐,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/NetEaseMusic.list
 🌏 国内媒体,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaMedia.list
 🌏 国内媒体,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/YYeTs.list
 🔰 节点选择,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyGFWlist.list
@@ -26,5 +43,8 @@
 🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list
 🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaCompanyIp.list
 🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Download.list
-;🎯 全球直连,[]GEOIP,CN
+🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
+🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
+🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/GoogleCN.list
+🎯 全球直连,[]GEOIP,CN
 🐟 漏网之鱼,[]FINAL
