@@ -6,7 +6,7 @@
 💫 American streaming,https://raw.githubusercontent.com/HotKids/Rules/master/Surge/RULE-SET/Hulu.list
 💫 American streaming,https://raw.githubusercontent.com/RojaSkywithing/Surge/main/Fubo.list
 🇮🇳 印度,https://raw.githubusercontent.com/RojaSkywithing/Surge/main/NBA.list
-📻Clubhouse,https://raw.githubusercontent.com/RojaSkywithing/Surge/main/Clubhouse.list
+📻 Clubhouse,https://raw.githubusercontent.com/RojaSkywithing/Surge/main/Clubhouse.list
 ⚽️ okko,https://raw.githubusercontent.com/RojaSkywithing/Surge/main/okko.list
 🇺🇲 美国,https://raw.githubusercontent.com/RojaSkywithing/Surge/main/Pornhub.list
 🇺🇲 美国,https://raw.githubusercontent.com/RojaSkywithing/Surge/main/TIDAL.list
