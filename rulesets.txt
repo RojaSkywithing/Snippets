@@ -26,6 +26,8 @@
 🌲 Apkpure,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Apkpure/Apkpure.list
 🌟 Star++,https://raw.githubusercontent.com/cx99325/clash/main/Star%2B%2B.list
 ⭐️ Star+,https://raw.githubusercontent.com/cx99325/clash/main/star%2B.list
+🥅 ESPN,https://raw.githubusercontent.com/cx99325/clash/main/ESPN.list
+💫 Paramount+,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ParamountPlus/ParamountPlus.list
 📼 DAZN,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/DAZN/DAZN.list
 📲 电报信息,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Telegram.list
 🎥 NETFLIX,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Netflix.list
