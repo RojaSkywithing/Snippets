@@ -1,4 +1,5 @@
 📡 IPTV,https://raw.githubusercontent.com/RojaSkywithing/Surge/main/IPTV.list
+🚴🏻‍♂️ Eurosport+,https://raw.githubusercontent.com/RojaSkywithing/Surge/main/eurosportmedia.list
 🚴🏻‍♂️ Eurosport,https://raw.githubusercontent.com/RojaSkywithing/Surge/main/EUROSPORT.list
 💫 American streaming,https://raw.githubusercontent.com/RojaSkywithing/Surge/main/ABC.list
 💫 American streaming,https://raw.githubusercontent.com/RojaSkywithing/Surge/main/CBS.list
