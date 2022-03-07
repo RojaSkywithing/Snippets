@@ -23,6 +23,7 @@
 🚴🏻‍♂️ Eurosport`select`[]🌐 所有节点`[]🇷🇺 俄罗斯`[]🇷🇴 罗马尼亚`[]🇵🇱 波兰`[]🇬🇧 英国
 💫 American streaming`select`[]🇺🇲 美国`[]🔰 节点选择
 📻 Clubhouse`select`[]🇭🇰 香港`[]🔰 节点选择
+📟 Emby`select`[]🇺🇲 美国`[]🔰 节点选择
 ⚽️ okko`select`[]🇷🇺 俄罗斯
 🌏 国内媒体`select`[]🎯 全球直连`[]🔰 节点选择
 Ⓜ️ 微软服务`select`[]🎯 全球直连`[]🔰 节点选择
