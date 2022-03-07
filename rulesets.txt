@@ -1,3 +1,4 @@
+📟 Emby,https://raw.githubusercontent.com/wsc82/Surge/main/Ruleset/emby.list
 📡 IPTV,https://raw.githubusercontent.com/RojaSkywithing/Surge/main/IPTV.list
 🚴🏻‍♂️ Eurosport+,https://raw.githubusercontent.com/RojaSkywithing/Surge/main/eurosportmedia.list
 🚴🏻‍♂️ Eurosport,https://raw.githubusercontent.com/RojaSkywithing/Surge/main/EUROSPORT.list
