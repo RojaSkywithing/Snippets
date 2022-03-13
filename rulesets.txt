@@ -20,7 +20,6 @@
 🍃 应用净化,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanProgramAD.list
 Ⓜ️ 微软服务,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/OneDrive.list
 🍎 苹果服务,https://raw.githubusercontent.com/HotKids/Rules/master/Surge/RULE-SET/Apple/Apple%20Books.list
-🍎 苹果服务,https://raw.githubusercontent.com/HotKids/Rules/master/Surge/RULE-SET/Apple/Apple%20News.list
 🍎 苹果服务,https://raw.githubusercontent.com/HotKids/Rules/master/Surge/RULE-SET/Apple/Apple%20TV.list
 🍎 苹果服务,https://cdn.jsdelivr.net/gh/dler-io/Rules@main/Surge/Surge%203/Provider/Apple.list
 🔗 谷歌Play,https://raw.githubusercontent.com/HotKids/Rules/master/Surge/RULE-SET/Google%20Play.list
